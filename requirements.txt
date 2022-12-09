@@ -1,0 +1,6 @@
+python==3.9.12
+Geopandas==0.9.0
+Pandas==1.4.4
+Matplotlib==3.5.2
+Folium==0.13.0
+Numpy==1.21.5
